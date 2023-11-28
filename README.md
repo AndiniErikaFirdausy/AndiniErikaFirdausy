@@ -21,12 +21,12 @@ GPA 3.35/4.00
 ---
 
 ### Languages and Tools:
-[<img align="left" alt="PostgreSQL" width="30px" src="https://play-lh.googleusercontent.com/2_2DM1Oq8So6TLiHy1L9FlII_kUJuSk8-9RNrLZ3EN5KMZ5FySEU3diopyd6hTt-evA=w240-h480" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Looker Studio" width="30px" src="https://syncwith.com/images/home/looker-studio.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Canva" width="50px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-canva-9234654-7516879.png?f=webp" style="padding-right:10px;" />][webdev]
+<img align="left" alt="PostgreSQL" width="30px" src="https://play-lh.googleusercontent.com/2_2DM1Oq8So6TLiHy1L9FlII_kUJuSk8-9RNrLZ3EN5KMZ5FySEU3diopyd6hTt-evA=w240-h480" style="padding-right:10px;" />
+<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
+<img align="left" alt="Looker Studio" width="30px" src="https://syncwith.com/images/home/looker-studio.png" style="padding-right:10px;" />
+<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:0px;" />
+<img align="left" alt="Canva" width="50px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-canva-9234654-7516879.png?f=webp" style="padding-right:10px;" />
 
 <br />
 <br />
